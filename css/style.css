@@ -297,6 +297,15 @@ h4 {
   display: inline-block;
 }
 
+.invert {
+  filter: invert(100%);
+}
+
+.fourth img {
+  width: 10%;
+  padding-left: .5rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
